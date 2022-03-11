@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprint 1</title>
+    <style>
+          html, body{
+                margin: 10px;}
+    </style>
+</head>
+<body>
+    <h1>Hello, we are Madison Innovations. This is our progress for Sprint 1.</h1>
+
+    <h2>Team Bio Link</h2>
+    <h4>Here is a <a href="teambios.html"> link</a> to our biography page</h4>
+
+    <h2>Project Overview</h2>
+    <p>Madison Innovations aims to provide interactive innovative information systems that transform both large and small businesses by providing an unapparelled experience that is centered around continuous client feedback along every step of the development process. We strive to dive deep into the mechanisms of their business to provide them with an Information System that encapsulates and supports their vision. Madison Innovations is aiming to provide the Ole School Alumni Group with a Web application database that can help support them as they pave the way for a new generation/community that is focused on “Paying It Back.” As they continue to grow, the Ole School Group has now become in need of a new web-based database that can manage all their extensive ventures. 
+    The system that we are presenting to the Ole School Group is an Amazon hosted web-based system that will allow Ole School members to provide better and more efficient support to the students here at JMU. <br>The system will be focused on providing students with the resources they need to succeed, including scholarships to those in need, mentorships throughout their college journey, and employment opportunities post-graduation. Our system will support Ole School Members as they help students from before they start at JMU, after they leave, and every step along the way.
+        The scope of our work will be an information system available as a web application on Amazon Web Services utilizing Microsoft SQL Server Database while interfacing with Visual Studios. Our team will be comprised of both CIS and SMAD majors using an iterative Agile methodology to provide the best form and function to our system without compromising the client needs. To effectively impart the same level of commitment that the Ole School group has for JMU, we will have an open continuous dialogue alongside a presentation of deliverables every two weeks to uphold our commitment to providing the best system they need.
+        </p>
+    <h2>Project Goals</h2>
+    <p>Our project goals are to meet and exceed the client’s expectations by making a fully functional web application with a pleasing design that is easy to use. We also want to make sure that our project has no errors and runs smoothly and efficiently to accurately meet our client’s vision. Another goal of our project is to secure a top spot in the rankings when the project concludes. We will communicate well both amongst ourselves and with external stakeholders.</p>
+    <h2>Audience Information</h2>
+    <p>Our audience is any person affiliated with the Ole School Alumni Group that requires a single medium for communication and information sharing. These people consist of JMU Alumni, students of African descent, JMU Faculty, and volunteers. </p><br>
+    <h2>Timeline</h2>
+    <p>Our timeline is contingent on the three upcoming Sprint meetings. The Sprint Meetings will occur on March 24th, April 5th, and April 19th. For the Sprint #1 meeting on March 24th, we plan to have 1/3 of the functionality present, no errors, and a detailed plan for the next major steps completed. For the Sprint #2 meeting on April 5th, we will have 2/3 of the functionality present and no errors completed. Finally, for the Sprint #3 meeting on April 19th, we will have a complete functional system including all final deliverables completed. We plan to have all requirements complete 5 days before the Sprint meeting. This will give us the necessary time to check over and errors and collaborate on any areas that need particular attention.</p><br>
+    <h2>Obstacles</h2>
+    
+    <ul> 
+        <li> Project Management</li>
+        <li> Integrating the databases to Amazon Web Services</li>
+        <li> Familiarize with GitHub and how it integrates with Visual Studio</li>
+     </ul>
+     <p>Our communication methods will be using our Groupme for coordinating with one another, zoom for meetings, and Microsoft Teams for sharing files and working collaboratively. We have also exchanged emails with one another. Any communication with professors will be the project managers responsibility, and any communication with the client will fall to the client liason.
+        We may run into some obstacles such as not understanding the client’s requirements completely, not setting aside enough time for each sprint, and/or technical issues with Visual Studios, MS SQL, or Amazon Web Services. We plan on asking a variety of different questions to the client, planning a schedule before each sprint, and starting sprints early, in order to avoid these obstacles. 
+        </p><br>
+
+    <h2>ERD </h2>
+    <h4>Here is a <a href="PreSprint-ERD.html"> link</a> to our ERD</h4>
+
+    <h2>Personas</h2>
+    <h4>Here is a <a href="persona.html"> link</a> to our Personas</h4>
+    
+    <h2>Use Case Diagram</h2>
+    <h4>Here is a <a href="OSG_PreSprint_UseCase.drawio.html"> link</a> to our Use Case Diagram</h4>
+    
+    <h2>Meeting Agenda</h2>
+    <h4>Here is a <a href="Meeting Agenda.html"> link</a> to our Meeting Agenda</h4>
+
+
+
+</body>
+</html>
